@@ -1,0 +1,45 @@
+1. Beitrag
+
+OP: Kaggle Bot, 
+https://www.kaggle.com/kerneler/starter-credit-card-transactions-fraud-cd58bfd8-a/notebook
+
+Inhalt:
+Einlesen
+Sichten
+.describe
+Verteilung
+korellationsmatrix
+Verteilung in Korellationsmatrix (Scatter?!)
+
+--------------------------------------------------------------------------------------------------------------------
+
+2. Beitrag (ähnliche Daten)
+https://data-flair.training/blogs/credit-card-fraud-detection-python-machine-learning/
+
+Inhalt:
+1 Perform Exploratory Data Analysis (EDA) on our dataset
+2   Apply different Machine Learning algorithms to our dataset
+3  Train and Evaluate our models on the dataset and pick the best one.
+
+1:
+Einlesen
+Sichten
+.describe
+Verteilung
+
+2. Decision Tree
+
+3.
+Confusion matrix --> Decision Tree
+Confusion matrix --> Random Forrest
+Address the Class-Imbalance issue
+
+--------------------------------------------------------------------------------------------------------------------
+
+Kaggle Sammlung zu Credid Fraud:
+https://www.kaggle.com/kartik2112/fraud-detection/code?datasetId=817870&sortBy=voteCount&language=Python
+
+
+3. Beitrag:
+Absolute Endlösung ( mit anderem Tabellsatz):
+https://www.kaggle.com/ohseokkim/creditcard-fraud-balance-is-key-feat-pycaret
